@@ -12,7 +12,7 @@ Inside the root directory of the repository:
 
 1. Launch SBT:
 
-        $ sbt
+        \$ sbt
 
 2. Compile everything and run all tests:
 
